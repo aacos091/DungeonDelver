@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\Exit.cs">
+    <Files>
+      <File FileName="Assets\Resources\DelverData.txt" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Dray.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\SwordController.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Skeletos.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\GuiPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\DamageEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\PickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Grapple.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\TileCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\__Scripts\Spiker.cs" Line="16" Column="5" />
+      <File FileName="Assets\__Scripts\Exit.cs" Line="19" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

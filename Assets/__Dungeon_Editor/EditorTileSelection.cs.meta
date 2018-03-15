@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 989a450dac97e4b97a569c9726e19f20
+timeCreated: 1511764650
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selectionPreview: {instanceID: 0}
+  - allTiles: {instanceID: 0}
+  - frame: {instanceID: 0}
+  - mapTexture: {fileID: 2800000, guid: 600c3190624b54fdba95619d75d56fdb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
